@@ -13,3 +13,4 @@ router.patch("/clientes/:id", validacion,updateCliente);
 router.delete("/clientes/:id", delCliente )
 
 export default router; //exportamos
+//subir Git Hub: https://gist.github.com/cgonzalezdai/cc33db72a6fe5178637aabb562eae35c?permalink_comment_id=4395213
